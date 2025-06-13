@@ -21,12 +21,12 @@ This project analyze will break in two two parts first part is how U.S retail cl
 2.  https://public.tableau.com/app/profile/dinara.ibotova/viz/AmericasClothingRetailSalesPerformancevs_Goals2/Dashboard1?publish=yes
 
 **Key Findings:**
-• 2020 saw the most sharpest drop below goal, which aligns with the COVID-19 retail distruption.
-• 2021 - 2024 saw strong recovery - which shows variance to goal turned strongly positive.
-• 250 months underperformed across the full time period (between Jan 1992 - March 2025)
-• Max overperformance is $13.9 Million
-• Worst month: -$14.5 Million
-• Long - term growth trends are stabilitizing, but seasonal volatily remains.
+1. 2020 saw the most sharpest drop below goal, which aligns with the COVID-19 retail distruption.
+2. 2021 - 2024 saw strong recovery - which shows variance to goal turned strongly positive.
+3. 250 months underperformed across the full time period (between Jan 1992 - March 2025)
+4. Max overperformance is $13.9 Million
+5. Worst month: -$14.5 Million
+6. Long - term growth trends are stabilitizing, but seasonal volatily remains.
 
 **Methods:**
 • Data Import: Loaded CSV into Google BigQuery
