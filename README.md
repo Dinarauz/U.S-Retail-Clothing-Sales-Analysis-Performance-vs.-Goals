@@ -5,7 +5,7 @@
 **Project Summary: Retail Clothing Sales Analysis vs. Rolling Goals**
 
 **Objective**
-This project analyze will break in two two parts first part is how U.S retail clothing sales (NAICS 4481) performed compared to simulated rolling sales targets over time. My goal was to understand performance trends, identify underperforming periods, and demonstrate advanced data analysis with SQL and Tableau.
+This project analyze how U.S retail clothing sales (NAICS 4481) performed over time compared to sales goals. It is structured in two parts and levearaging both SQL and Tableu to deliver data - driven insights and visual storytelling. My goal was to understand performance trends, identify underperforming periods, and demonstrate advanced data analysis with SQL and Tableau. Part 1 will focus on macro level trends using data from the Federeal Reserve Economic Data (FRED).
 
 **Dataset**
 *Source:* Federal Reserve Economic Data (FRED) (https://fred.stlouisfed.org/series/MRTSSM4481USN?)
