@@ -24,11 +24,11 @@ This project analyze will break in two two parts first part is how U.S retail cl
 
 
 **Methods:**
-≠• Data Import: Loaded CSV into Google BigQuery
-≠• SQL Modeling: Created enhanced table with 5 year rolling goal & variance
-≠• KPI Logic: defined underperforming as vs_goal < 0
-≠• YoY Trends: Compared current year/month against prior year
-≠• Visualization Built Tableau Dashboard with KPI cards, line chars, variance bars, and more.
+• Data Import: Loaded CSV into Google BigQuery
+• SQL Modeling: Created enhanced table with 5 year rolling goal & variance
+• KPI Logic: defined underperforming as vs_goal < 0
+• YoY Trends: Compared current year/month against prior year
+• Visualization Built Tableau Dashboard with KPI cards, line chars, variance bars, and more.
 
 *This concludes part 1 of the project*
 
