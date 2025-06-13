@@ -14,7 +14,8 @@ This project analyze how U.S retail clothing sales (NAICS 4481) performed over t
 
 **Tools Used:**
 • BigQuery SQL - For data modeling, goal logic, YoY joins
-• Tableu - KPI cards, multi-axis trend lines and more visualization such as 5-Year Goal.
+• Google Cloud
+• Tableau - KPI cards, multi-axis trend lines and more visualization such as 5-Year Goal.
 
 **Dashboards:**
 1. https://public.tableau.com/app/profile/dinara.ibotova/viz/MacroTrendAnalysisFRED1AmericasClothingRetailSalesPerformancevs_Goals/Dashboard1?publish=yes
@@ -28,13 +29,17 @@ This project analyze how U.S retail clothing sales (NAICS 4481) performed over t
 5. Worst month: -$14.5 Million
 6. Long - term growth trends are stabilitizing, but seasonal volatily remains.
 
-**Methods:**
-• Data Import: Loaded CSV into Google BigQuery
-• SQL Modeling: Created enhanced table with 5 year rolling goal & variance
-• KPI Logic: defined underperforming as vs_goal < 0
-• YoY Trends: Compared current year/month against prior year
-• Visualization Built Tableau Dashboard with KPI cards, line chars, variance bars, and more.
+**Key Steps:**
+• Loaded sales data from FRED into BigQuery
+• Created rolling 5-year average and 5% YoY goal benchmarks
+• Calculated performance vs. goals (vs_goal)
+• Analyzed underperforming months and YoY trends using SQL
+• Built Tableau Dashboards with 
+     • KPI cards
+     • Trend lines
+     • Performance variance bar charts
 
 *This concludes part 1 of the project*
 
+**Part 2: Retail Sector Breakdown (Census)**
 
