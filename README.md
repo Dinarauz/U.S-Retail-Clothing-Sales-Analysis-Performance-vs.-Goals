@@ -56,6 +56,7 @@ Part 2 of this project expands from a single NAICS code (448) to a detailed brea
 -Google Collab
 
 **Dashboards:**
+-https://app.powerbi.com/groups/me/reports/58057680-9eb2-40b7-8a7b-c1429d568651/1135791d0231b5449e50?experience=power-bi
 -https://public.tableau.com/app/profile/dinara.ibotova/viz/RetailSectorAnalysisPart2/Dashboard1?publish=yes
 
 **Key Findings**
