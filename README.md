@@ -2,10 +2,12 @@
 
 ![3](https://github.com/user-attachments/assets/a88db114-711e-4299-907f-b13f5312aedd)
 
-**Performance vs Rolling Goals (1992-2025)**
+## Performance vs Rolling Goals (1992-2025)
 
 **Objective**
-This project analyze how U.S retail clothing sales (NAICS 4481) performed over time compared to sales goals. It is structured in two parts and levearaging both SQL and Tableu to deliver data - driven insights and visual storytelling. My goal was to understand performance trends, identify underperforming periods, and demonstrate advanced data analysis with SQL and Tableau. Part 1 will focus on macro level trends using data from the Federeal Reserve Economic Data (FRED).
+Two-part analysis tracking how U.S. retail clothing sales performed against rolling 5-year goals. Part 1 covers macro trends from 1992-2025, Part 2 breaks down specific retail sectors from 2023-2025.
+
+## Part 1: Macro Trend Analysis (FRED Data)
 
 **Dataset**
 *Source:* Federal Reserve Economic Data (FRED) (https://fred.stlouisfed.org/series/MRTSSM4481USN?)
