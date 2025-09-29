@@ -1,8 +1,8 @@
-# U.S Retail Clothing Sales Analysis: Performance vs. Goals
+# U.S Retail Clothing Sales Analysis - Retail Analytics & Performance Tracking
 
 ![3](https://github.com/user-attachments/assets/a88db114-711e-4299-907f-b13f5312aedd)
 
-**Project Summary: Retail Clothing Sales Analysis vs. Rolling Goals**
+**Performance vs Rolling Goals (1992-2025)**
 
 **Objective**
 This project analyze how U.S retail clothing sales (NAICS 4481) performed over time compared to sales goals. It is structured in two parts and levearaging both SQL and Tableu to deliver data - driven insights and visual storytelling. My goal was to understand performance trends, identify underperforming periods, and demonstrate advanced data analysis with SQL and Tableau. Part 1 will focus on macro level trends using data from the Federeal Reserve Economic Data (FRED).
