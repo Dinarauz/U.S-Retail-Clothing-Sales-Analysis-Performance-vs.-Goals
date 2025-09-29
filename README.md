@@ -58,7 +58,7 @@ Part 2 of this project expands from a single NAICS code (448) to a detailed brea
 -Google Collab
 
 **Dashboards:**
-1. https://app.powerbi.com/groups/me/reports/58057680-9eb2-40b7-8a7b-c1429d568651/1135791d0231b5449e50?experience=power-bi
+1. Power BI: https://github.com/Dinarauz/U.S-Retail-Clothing-Sales-Analysis-Performance-vs.-Goals/blob/main/visuals/retail%20part%202-2.pdf (For interactive Power BI dashboard please send me your email: https://app.powerbi.com/groups/me/reports/58057680-9eb2-40b7-8a7b-c1429d568651/1135791d0231b5449e50?experience=power-bi)
 2. https://public.tableau.com/app/profile/dinara.ibotova/viz/RetailSectorAnalysisPart2/Dashboard1?publish=yes
 
 **Key Findings**
